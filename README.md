@@ -1,3 +1,3 @@
 # Git NEW
 
-	-feature-A
+	fix-B
